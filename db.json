@@ -1,0 +1,39 @@
+{
+  "usuarios": [
+    {
+      "nome": "Wagner",
+      "cpf": "36475839281",
+      "idade": "45",
+      "id": 2
+    },
+    {
+      "nome": "Adilson",
+      "cpf": "70055544490",
+      "idade": "21",
+      "telefone": "083988889999",
+      "id": 3
+    },
+    {
+      "nome": "Juniores",
+      "cpf": "70055544490",
+      "idade": "22",
+      "telefone": "83988889999",
+      "id": 4
+    },
+    {
+      "nome": "John Doe",
+      "cpf": "98765432198",
+      "idade": "12",
+      "telefone": "988889999",
+      "id": 5
+    },
+    {
+      "nome": "Gustavo",
+      "cpf": "32165498787",
+      "idade": "18",
+      "telefone": "88889999",
+      "id": 6
+    }
+  ],
+  "mensagens": []
+}
